@@ -2,7 +2,6 @@
 
 ## Student Details
 * **Student Name:** Macdonald Mako
-* **Student Number:** 202441615
 VIBE CODED
 
 ---
