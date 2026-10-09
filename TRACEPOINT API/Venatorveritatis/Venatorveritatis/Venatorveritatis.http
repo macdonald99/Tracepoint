@@ -1,0 +1,6 @@
+@VenatorVeritatis_HostAddress = http://localhost:5012
+
+GET {{VenatorVeritatis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

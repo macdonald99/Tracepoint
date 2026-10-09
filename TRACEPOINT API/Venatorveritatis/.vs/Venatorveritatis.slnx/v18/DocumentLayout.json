@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|c:\\users\\macdonald\\source\\repos\\venatorveritatis\\venatorveritatis\\controllers\\casescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|solutionrelative:venatorveritatis\\controllers\\casescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|c:\\users\\macdonald\\source\\repos\\venatorveritatis\\venatorveritatis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|solutionrelative:venatorveritatis\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|c:\\users\\macdonald\\source\\repos\\venatorveritatis\\venatorveritatis\\controllers\\evidencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|solutionrelative:venatorveritatis\\controllers\\evidencecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|c:\\users\\macdonald\\source\\repos\\venatorveritatis\\venatorveritatis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|solutionrelative:venatorveritatis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|c:\\users\\macdonald\\source\\repos\\venatorveritatis\\venatorveritatis\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|solutionrelative:venatorveritatis\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|c:\\users\\macdonald\\source\\repos\\venatorveritatis\\venatorveritatis\\controllers\\suspectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|solutionrelative:venatorveritatis\\controllers\\suspectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|c:\\users\\macdonald\\source\\repos\\venatorveritatis\\venatorveritatis\\controllers\\investigationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|solutionrelative:venatorveritatis\\controllers\\investigationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|c:\\users\\macdonald\\source\\repos\\venatorveritatis\\venatorveritatis\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB921FA-0D72-F4AA-1BFB-B38573232BC5}|VenatorVeritatis\\VenatorVeritatis.csproj|solutionrelative:venatorveritatis\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Venatorveritatis\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Models\\Models.cs",
+              "RelativeToolTip": "Venatorveritatis\\Models\\Models.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T21:57:51.135Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Data\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Venatorveritatis\\Data\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Data\\DatabaseContext.cs",
+              "RelativeToolTip": "Venatorveritatis\\Data\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T22:47:51.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Program.cs",
+              "RelativeDocumentMoniker": "Venatorveritatis\\Program.cs",
+              "ToolTip": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Program.cs",
+              "RelativeToolTip": "Venatorveritatis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T19:01:36.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvidenceController.cs",
+              "DocumentMoniker": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Controllers\\EvidenceController.cs",
+              "RelativeDocumentMoniker": "Venatorveritatis\\Controllers\\EvidenceController.cs",
+              "ToolTip": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Controllers\\EvidenceController.cs",
+              "RelativeToolTip": "Venatorveritatis\\Controllers\\EvidenceController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:55:26.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CasesController.cs",
+              "DocumentMoniker": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Controllers\\CasesController.cs",
+              "RelativeDocumentMoniker": "Venatorveritatis\\Controllers\\CasesController.cs",
+              "ToolTip": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Controllers\\CasesController.cs",
+              "RelativeToolTip": "Venatorveritatis\\Controllers\\CasesController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:30:35.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Venatorveritatis\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Venatorveritatis\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-08T19:56:25.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuspectController.cs",
+              "DocumentMoniker": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Controllers\\SuspectController.cs",
+              "RelativeDocumentMoniker": "Venatorveritatis\\Controllers\\SuspectController.cs",
+              "ToolTip": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Controllers\\SuspectController.cs",
+              "RelativeToolTip": "Venatorveritatis\\Controllers\\SuspectController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:54:53.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvestigationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Controllers\\InvestigationsController.cs",
+              "RelativeDocumentMoniker": "Venatorveritatis\\Controllers\\InvestigationsController.cs",
+              "ToolTip": "C:\\Users\\Macdonald\\source\\repos\\Venatorveritatis\\Venatorveritatis\\Controllers\\InvestigationsController.cs",
+              "RelativeToolTip": "Venatorveritatis\\Controllers\\InvestigationsController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAiwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T17:37:59.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
